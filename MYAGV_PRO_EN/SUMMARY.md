@@ -44,7 +44,8 @@
     - [6.2.4 Multi AGV Pro control](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.4-multi_control.md)
     - [6.2.5 Gazebo simulation](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.5-Gazebo.md)
     - [6.2.6 Real_Time_Mapping_with_Point_lio](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.6-Real_Time_Mapping_with_Point_lio.md)
-    
+    - [6.2.7 FAST_LIO三维建图及导航](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.7-Real_Time_Mapping_with_FAST_LIO.md)
+    - [6.2.8 Autocharge自动回充](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.8-Autocharge.md)
 - [6.3 ApplicationBaseSerialPortProtocol]()
     - [6.3.1 ApplicationBaseSerialPortProtocol](6-SDKDevelopment/6.3-ApplicationBaseSerialPortProtocol/6.3.1-Protocol_Introduction.md)
 

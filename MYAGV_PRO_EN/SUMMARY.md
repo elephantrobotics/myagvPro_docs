@@ -46,6 +46,7 @@
     - [6.2.6 Real_Time_Mapping_with_Point_lio](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.6-Real_Time_Mapping_with_Point_lio.md)
     - [6.2.7 Real_Time_Mapping_with_FAST_LIO](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.7-Real_Time_Mapping_with_FAST_LIO.md)
     - [6.2.8 Autocharge](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.8-Autocharge.md)
+    - [6.2.9 Rtabmap](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.9-Rtabmap.md)
 - [6.3 ApplicationBaseSerialPortProtocol]()
     - [6.3.1 ApplicationBaseSerialPortProtocol](6-SDKDevelopment/6.3-ApplicationBaseSerialPortProtocol/6.3.1-Protocol_Introduction.md)
 

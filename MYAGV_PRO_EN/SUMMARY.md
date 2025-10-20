@@ -22,9 +22,10 @@
 
   - [4.1 Product Standard List](4-FirstInstallAndUse/4.1-ProductStandardList.md)
   - [4.2 Navigation-Visual Version]()
-    - [4.2.1 Bill Of Materials](4-FirstInstallAndUse/4.2.1-BillOfMaterials.md)
-    - [4.2.2 System Introduction](4-FirstInstallAndUse/4.2.2-SystemIntroduction.md)
-    - [4.2.3 Quick Experience](4-FirstInstallAndUse/4.2.3-QuickExperience.md)
+    - [4.2.1 Unboxing video](4-FirstInstallAndUse/4.2.1-Unboxingvideo.md)
+    - [4.2.2 Bill Of Materials](4-FirstInstallAndUse/4.2.2-BillOfMaterials.md)
+    - [4.2.3 System Introduction](4-FirstInstallAndUse/4.2.3-SystemIntroduction.md)
+    - [4.2.4 Quick Experience](4-FirstInstallAndUse/4.2.4-QuickExperience.md)
 
 - [5 Basic Application]()
 

@@ -21,9 +21,10 @@
 
   - [4.1 基础版本](4-FirstInstallAndUse/4.1-BasicEdition.md)
   - [4.2 导航-视觉版]()
-    - [4.2.1 物料清单](4-FirstInstallAndUse/4.2.1-BillOfMaterials.md)
-    - [4.2.2 系统介绍](4-FirstInstallAndUse/4.2.2-SystemIntroduction.md)
-    - [4.2.3 快速体验](4-FirstInstallAndUse/4.2.3-QuickExperience.md)
+    - [4.2.1 开箱视频](4-FirstInstallAndUse/4.2.1-Unboxingvideo.md)
+    - [4.2.2 物料清单](4-FirstInstallAndUse/4.2.2-BillOfMaterials.md)
+    - [4.2.3 系统介绍](4-FirstInstallAndUse/4.2.3-SystemIntroduction.md)
+    - [4.2.4 快速体验](4-FirstInstallAndUse/4.2.4-QuickExperience.md)
 
 - [5 基础功能使用]()
 

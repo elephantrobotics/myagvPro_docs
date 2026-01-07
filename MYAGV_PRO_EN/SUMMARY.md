@@ -20,7 +20,7 @@
 
 - [4 First Install and Use](4-FirstInstallAndUse/README.md)
 
-  - [4.1 Product Standard List](4-FirstInstallAndUse/4.1-ProductStandardList.md)
+  - [4.1 Basic Version](4-FirstInstallAndUse/4.1-BasicEdition.md)
   - [4.2 Navigation-Visual Version]()
     - [4.2.1 Unboxing video](4-FirstInstallAndUse/4.2.1-Unboxingvideo.md)
     - [4.2.2 Bill Of Materials](4-FirstInstallAndUse/4.2.2-BillOfMaterials.md)
